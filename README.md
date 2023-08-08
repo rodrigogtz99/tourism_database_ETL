@@ -3,7 +3,7 @@
 
 50 Most Visited Countries Database
 
-Purpose: 1) Elaborate a database that 
+Purpose: 1) Elaborate a database that allows users to understand what is behind the top 50 most visited countries, with data such as affordability, number of unesco sites, safety, infraestructure,income group, etc. Identify pattterns!
 2) Serves as a guide for those wanting to choose a tourism destination based on specific characteristics (such as natural resources, affordability, region,etc.)
 
 1. I gathered data from the most visited countries of 2022 from Kaggle ('most_visited.csv')
