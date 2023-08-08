@@ -12,4 +12,9 @@ Purpose: 1) Elaborate a database that
 4. I created a table for each of the three previous extractions, then merged them together into the 'tourism_database'.
 5. I uploaded it to SQL from Python.
 
-
+![graph1](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/bbf3f7e7-a176-4923-9984-0c5ff6f8beb8)
+![graph2](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/2b6b584f-0f6b-4a4a-a9b8-9154966fa3b8)
+![graph3](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/1a5a3a9d-0f07-4962-99bd-6f85b4bd0732)
+![graph4](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/dca55f0e-f4ef-41d8-86d6-fd561ab57eb5)
+![graph5](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/46a09c78-b3e0-45ee-adfa-28072982e9af)
+![graph6](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/18cc37ae-29d6-4e61-929d-60f153dcb0d6)
