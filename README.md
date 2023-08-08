@@ -12,6 +12,8 @@ Purpose: 1) Elaborate a database that allows users to understand what is behind 
 4. I created a table for each of the three previous extractions, then merged them together into the 'tourism_database'.
 5. I uploaded it to SQL from Python.
 
+
+
 ![graph1](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/bbf3f7e7-a176-4923-9984-0c5ff6f8beb8)
 
 ![graph2](https://github.com/rodrigogtz99/tourism_database_ETL/assets/139127453/2b6b584f-0f6b-4a4a-a9b8-9154966fa3b8)
